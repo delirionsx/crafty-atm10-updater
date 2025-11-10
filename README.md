@@ -110,7 +110,7 @@ SERVER_DIR:
 /mnt/user/exclusivegameserver/Exclusive-GameServer/crafty-4/servers/19904793-fdf5-4fd8-8b4b-d37b47ea8771
 
 Crafty URL:
-https://192.168.2.159:8443
+https://yourdockerip:8443
 
 Troubleshooting (Kurz)
 Symptom	Ursache	Fix
